@@ -1,0 +1,9 @@
+*.pyc
+*.user
+*.filters
+*.vcxproj
+*.sln
+/.vscode/
+/resource/
+/runs/
+*.pyc
